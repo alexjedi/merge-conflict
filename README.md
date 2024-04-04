@@ -1,10 +1,21 @@
-# Tales from the Post-Singularity
+# Merge Conflict
 
-A series of sci-fi short stories
+A series of stories about the world of post-singularity.
 
 ## Content
 
-- Wheatness of Civilization
+### Stories
+
+- Into The Lethe
+- Love TL;DR — Fearmonger
+
+### Novel
+
+- Merge Conflict
+
+### Essay
+
+— Organic Rust
 
 ---
 
